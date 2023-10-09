@@ -1,8 +1,8 @@
-import 'package:consume_api_flutter/src/providers/users_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import '../models/user_model.dart';
+import '../providers/users_provider.dart';
 
 class EditUserPage extends StatefulWidget {
   final UserModel user;
