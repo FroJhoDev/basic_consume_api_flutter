@@ -19,7 +19,7 @@ Projeto realizado para demonstrator para os alunos do evento Imersão DevChanger
 
 <p align="middle">
     <div width="20%"></div>
-    <img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot02.jpeg" width="60%">
+    <img src="https://github.com/FroJhoDev/basic_consume_api_flutter/blob/main/assets/images/basic_consume_api_flutter_example.gif?raw=true" width="40%">
     <div width="20%"></div>
 </p>
 
